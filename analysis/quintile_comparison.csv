@@ -1,0 +1,6 @@
+quintile,n_reviews,n_issue_reviews,pct_issue_reviews,negative_star_max
+1,360,24,6.67,3
+2,360,10,2.78,3
+3,360,6,1.67,3
+4,360,4,1.11,3
+5,346,4,1.16,3
