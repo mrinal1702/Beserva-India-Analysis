@@ -59,8 +59,6 @@ Result: hundreds/thousands of reviews per salon, ordered by newest if desired.
 
 ---
 
----
-
 ## How we flagged “Beserva-relevant” issues in reviews
 
 To connect our analysis to the core problem Beserva solves, we flagged reviews that mentioned **appointments, scheduling, cancellations, delays, or WhatsApp coordination**.
