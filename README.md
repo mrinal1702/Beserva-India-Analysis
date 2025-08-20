@@ -110,6 +110,4 @@ To test this, we:
 
 This allowed us to directly compare whether **lower-rated businesses suffer more from appointment/admin complaints**.
 
-![Quintile Analysis](analysis/quintile_bar.png)
-
-
+analysis/quintile_bar.png
