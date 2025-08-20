@@ -88,3 +88,28 @@ The logic was:
 > **In short:** we combined all relevant appointment/admin keywords into one, but only counted them as issues if the review’s star rating was low. This keeps the focus squarely on problems Beserva is designed to solve.
 
 
+---
+
+## Quintile Analysis: Do admin issues drag down ratings?
+
+Once we flagged the reviews for **Beserva-relevant issues**, we asked:
+
+- Do these problems appear **more often** in low-rated salons than in high-rated ones?  
+- Could these admin issues (missed appointments, poor scheduling, miscommunication) be **dragging down ratings** even if the actual beauty service is good?
+
+To test this, we:
+
+1. Pulled each salon’s **overall Google rating** from the API.
+2. Sorted all salons by rating and split them into **five equal quintiles**:  
+   - **Q1 = worst-rated 20%**  
+   - **Q5 = best-rated 20%**  
+3. For each quintile, we counted:  
+   - Total number of reviews  
+   - Number of reviews flagged with effective Beserva-issues (low-star + admin problem)  
+   - Percentage of reviews that were issue-related
+
+This allowed us to directly compare whether **lower-rated businesses suffer more from appointment/admin complaints**.
+
+![Quintile Analysis](analysis/quintile_bar.png)
+
+
