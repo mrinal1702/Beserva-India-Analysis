@@ -112,3 +112,14 @@ This allowed us to directly compare whether **lower-rated businesses suffer more
 
 ![Quintile Analysis — % of issue reviews](analysis/quintile_bar.png)
 
+---
+
+
+**Interpretation:**
+
+- The **worst-rated salons (Q1)** suffer disproportionately from appointment, scheduling, and timing complaints — **6.7% of their reviews** highlight these issues, far higher than other groups.  
+- As ratings improve (Q2 → Q4), these complaints **drop sharply**, showing that businesses with better ratings are generally better at managing logistics.  
+- Interestingly, even in the **best-rated salons (Q5)**, about **1.2% of reviews** still mention admin issues. This suggests that **even highly skilled salons are not immune** — their artisanship may win customers, but poor scheduling or missed appointments can still hurt reputation.
+
+**Takeaway:**  
+Administrative failures (late appointments, mismanaged bookings, poor WhatsApp communication) appear to be a **major driver of low ratings**. Even top salons cannot ignore them, but for struggling salons, these issues are often the difference between mediocre ratings and strong ones. This directly validates Beserva’s relevance in the Indian market.
