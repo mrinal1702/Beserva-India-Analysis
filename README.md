@@ -1,4 +1,4 @@
-# Beserva India Analysis
+# Does Beserva Have a Market in Mumbai?
 
 This project is inspired by my good friend and fellow NYU alum, **Maria**, who founded [Beserva](https://www.beserva.com/) — a Mexico City–based startup building a **WhatsApp-integrated LLM bot** for salons and beauty parlors.  
 Beserva’s product helps small businesses manage **appointments, scheduling, and cancellations**, reducing missed bookings due to admin problems. It’s especially impactful in markets where **WhatsApp is the dominant communication channel**.
@@ -123,8 +123,6 @@ This allowed us to directly compare whether **lower-rated businesses suffer more
 
 **Takeaway:**  
 Administrative failures (late appointments, mismanaged bookings, poor WhatsApp communication) appear to be a **major driver of low ratings**. Even top salons cannot ignore them, but for struggling salons, these issues are often the difference between mediocre ratings and strong ones. This directly validates Beserva’s relevance in the Indian market.
-
----
 
 ---
 
