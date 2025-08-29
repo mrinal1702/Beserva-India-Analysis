@@ -123,3 +123,31 @@ This allowed us to directly compare whether **lower-rated businesses suffer more
 
 **Takeaway:**  
 Administrative failures (late appointments, mismanaged bookings, poor WhatsApp communication) appear to be a **major driver of low ratings**. Even top salons cannot ignore them, but for struggling salons, these issues are often the difference between mediocre ratings and strong ones. This directly validates Beserva’s relevance in the Indian market.
+
+---
+
+---
+
+## Top 10 Offenders = Beserva’s Warm Leads
+
+To move from **market analysis** to **actionable sales leads**, we identified the salons in Mumbai where **Beserva-related issues are most concentrated**.
+
+**How we did it:**
+1. Aggregated reviews **per salon**.
+2. Counted how many reviews per salon were flagged as **effective issues** (appointments, scheduling, cancellations, timing).
+3. Calculated an **issue rate** = (# issue reviews ÷ total reviews).
+4. To ensure reliability, we only kept salons with **≥3 reviews** and at least **1 confirmed issue**.
+5. Ranked salons by **highest issue rate**, then by number of issue reviews.
+
+The result is a **Top 10 “offenders” list** — businesses where admin/scheduling problems are most visible to customers.
+
+**Why it matters:**  
+- These salons represent **warm leads for Beserva**.  
+- They are **already losing reputation** due to preventable admin failures.  
+- Targeting them first could quickly demonstrate Beserva’s value:  
+  - Reduce missed appointments  
+  - Improve ratings  
+  - Protect revenue and customer loyalty
+
+The full list is available in [`analysis/top10_offenders.csv`](analysis/top10_offenders.csv).
+
