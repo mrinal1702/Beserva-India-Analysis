@@ -22,6 +22,7 @@ The goal of this project is two-fold:
 Data was collected using the **Google Places API**.  
 - I scraped reviews from **360 businesses in Mumbai**, identified through the following queries:
 
+**
 "beauty salon in Mumbai",
 "hair salon in Mumbai",
 "spa in Mumbai",
@@ -33,7 +34,7 @@ Data was collected using the **Google Places API**.
 "pedicure in mumbai",
 "manicure in mumbai",
 "nail salon in Mumbai"
-
+**
 
 - For each business, the API provides **up to 5 “most relevant” reviews**.  
   This is a **limitation of the free API** — in practice, one can obtain **all reviews for all places** through advanced pipelines or third-party datasets (likely paid).  
